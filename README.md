@@ -26,7 +26,10 @@ Each choice leads to a different scenario and ending.
 # How to run
 1. Open terminal
 2. Navigate to the project folder
-3. Run: php lost_temple_game.php
+3. Run: 
+```cmd
+php lost_temple_game.php
+```
 
 # Replay
 - After the game you can press ENTER to play again
