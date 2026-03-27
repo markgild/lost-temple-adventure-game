@@ -41,5 +41,5 @@ php lost_temple_game.php
 
 ## Flowchart
 You can use the included flowchart (draw.io) for game structure. 
-(Or just photo, if can't open .drawio files).
-See `flowchart.png` in the project folder.
+(Or just photo, if can't open .drawio files.
+See `flowchart.png` in the project folder)
