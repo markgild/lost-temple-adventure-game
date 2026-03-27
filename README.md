@@ -29,23 +29,17 @@ Each choice leads to a different scenario and ending.
 3. Run: php lost_temple_game.php
 
 # Replay
--After the game you can press ENTER to play again
--Type "q" to quit
+- After the game you can press ENTER to play again
+- Type "q" to quit
 
 # Technologies used
--PHP
--CLI (Command Line Interface)
+- PHP
+- CLI (Command Line Interface)
 
 # Flowchart
 You can use the included flowchart (draw.io) for game structure. 
-(Or just photo
+(Or just photo, if can't open .drawio files)
+
 ```
 flowchart.png
-```
-, if can't open .drawio files)
-
-
-
-```php
-$hello =  "Hallo";
 ```
