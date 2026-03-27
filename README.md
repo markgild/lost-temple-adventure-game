@@ -4,6 +4,8 @@
 
 ## Author: Mark Borysenko
 ## Date: 26.03.2026
+## Version: 1.0
+
 
 # Description
 This is a text-based adventure game made totally in PHP.
