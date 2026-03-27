@@ -1,5 +1,3 @@
-# lost-temple-adventure-game
-
 # The Lost Temple - Adventure game
 
 ## Author: Mark Borysenko
