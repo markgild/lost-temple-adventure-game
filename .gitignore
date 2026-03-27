@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+.Thumbs.db
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp 
+
+# Cache files
+*.cache
+
+# Optional: ignore all .drawio files
+# Delete # to make works
+# *.drawio
