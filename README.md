@@ -15,7 +15,7 @@ The player explores a jungle and makes choices that affect the outcome of the st
   - WIN
   - GAME OVER
   - GOOD END
-- ASCII art (I took it from the internet an AI)
+- ASCII art (I took it from the internet and AI)
 - Input validation (only valid choices allowed)
 - Replay option after finishing the game
 
@@ -43,6 +43,5 @@ php lost_temple_game.php
 You can use the included flowchart (draw.io) for game structure. 
 (Or just photo, if can't open .drawio files).
 
-```
+
 See `flowchart.png` in the project folder.
-```
