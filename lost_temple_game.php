@@ -168,7 +168,7 @@ function main() {
     $choice_main = readline("What do you choose?(1, 2 or 3): ");
 
     // the same as askChoise2 but with 3 values
-    // it makes without function because it make choice with 3 values 
+    // it makes without function bxecause it make choice with 3 values 
     // it appears only one time in the game
     while ($choice_main != 1 && $choice_main != 2 && $choice_main != 3) {
         printT("Invalid choice! Please enter 1, 2 or 3.\n");
